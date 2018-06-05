@@ -110,3 +110,6 @@ Treat them like repeatable exercises which you can do with different tools, fast
 
 **Setting up SASS/SCSS**
 <iframe src="https://player.vimeo.com/video/273346382?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**Firebase CRUD 101**
+<iframe src="https://player.vimeo.com/video/273433235?title=0&byline=0&portrait=0" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
