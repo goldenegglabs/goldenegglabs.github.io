@@ -116,3 +116,6 @@ Treat them like repeatable exercises which you can do with different tools, fast
 
 **React 101**
 <iframe src="https://player.vimeo.com/video/281284831?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**Solving A Real React Task**
+<iframe src="https://player.vimeo.com/video/285317396?title=0&byline=0&portrait=0" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
