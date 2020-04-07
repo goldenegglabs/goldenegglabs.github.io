@@ -105,17 +105,3 @@ Treat them like repeatable exercises which you can do with different tools, fast
   * Level 5: Push the data into three other locations in the DB
   * Level 6: Setup a REST API trigger which reacts to http requests (uses express)
   * Level 7: Make an 'AJAX' request from client-side javascript to the firebase server
-  
-## Mini Lectures:
-
-**Setting up SASS/SCSS**
-<iframe src="https://player.vimeo.com/video/273346382?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-**Firebase CRUD 101**
-<iframe src="https://player.vimeo.com/video/273433235?title=0&byline=0&portrait=0" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-**React 101**
-<iframe src="https://player.vimeo.com/video/281284831?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-**Solving A Real React Task**
-<iframe src="https://player.vimeo.com/video/285317396?title=0&byline=0&portrait=0" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
